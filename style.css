@@ -175,7 +175,7 @@ body {
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
     font-weight: bold;
 }
-
+/* Responsive Design */
 @media (max-width: 768px) {
     .carousel-item {
         height: 300px;
